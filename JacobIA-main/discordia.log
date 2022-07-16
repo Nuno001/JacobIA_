@@ -1,0 +1,7 @@
+2022-07-15 21:10:21 | [INFO]    | Discordia 2.9.2
+2022-07-15 21:10:21 | [INFO]    | Connecting to Discord...
+2022-07-15 21:10:22 | [INFO]    | Authenticated as OptimizeBETA#1559
+2022-07-15 21:10:22 | [INFO]    | Launching shard 0 (1 out of 1)...
+2022-07-15 21:10:23 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2022-07-15 21:10:23 | [INFO]    | Shard 0 : Received HELLO
+2022-07-15 21:10:23 | [INFO]    | Shard 0 : Received READY
