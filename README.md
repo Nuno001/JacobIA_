@@ -9,7 +9,17 @@ Bem-vindo(a) ao código fonte oficial da JabobIA, alguns codigos estão sendo at
 - [Luvit 2.0 Buildpack](https://elements.heroku.com/buildpacks/squeek502/heroku-buildpack-luvit#buildpack-instructions)
 - [Heroku apps](https://dashboard.heroku.com/apps)
 - [Futuras atualizações: Audio, Ban, Clear, Lock, Status.
-- Sistemas atuais: Em desenvolvimento.
+- Sistemas atuais: 
+  
+  ---
+  ## {Moderação} ##
+  ---
+  [Sistema de conversa (BETA) - Embed]
+  [Sistema de Status]
+  [Sistema de Piadas (Com API em desenvolvimento)]
+  [Sistema de embed (BETA)]
+  [Sistema de menu (BETA)]
+  
 - Banco de Dados: Em desenvolvimento.
 
 ## Creditos
