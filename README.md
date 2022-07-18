@@ -16,13 +16,13 @@ Bem-vindo(a) ao código fonte oficial da JabobIA, alguns codigos estão sendo at
   ---
   - [Sistema de conversa **(BETA)** - Embed]
   - [Sistema de Status]
-  - [Sistema de Piadas (Com API em desenvolvimento)]
-  - [Sistema de embed (BETA)]
-  - [Sistema de menu (BETA)] 
+  - [Sistema de Piadas **(Com API em desenvolvimento**)]
+  - [Sistema de embed **(BETA)**]
+  - [Sistema de menu **(BETA)**] 
   
 - Banco de Dados: Em desenvolvimento.
 
 ## Creditos
-Criador - Nuno001
+Criador - **Nuno001**
 
 - **Link:** [https://discord.gg/wzyXFBvFJr ](https://discord.gg/M8gwNKqaXC)
