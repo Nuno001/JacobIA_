@@ -17,6 +17,7 @@ Bem-vindo(a) ao código fonte oficial da JabobIA, alguns codigos estão sendo at
   - [Sistema de Piadas **(Com API em desenvolvimento**)]
   - [Sistema de embed **(BETA)**]
   - [Sistema de menu **(BETA)**] 
+  - [Sistema de economia (BETA)
   
 - Banco de Dados: Em desenvolvimento.
 
