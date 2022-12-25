@@ -13,4 +13,4 @@ I'm updating everything on localhost to bring an improved 1.0.0 version with new
 Creator - **Nuno001**
 
 - **Link:** [https://discord.gg/--- ](https://discord.gg/---)
-- **Changelog** -->
+- [Changelog - [0.0.2]](https://github.com/Nuno001/JacobIA_/wiki#change-log)
